@@ -11,3 +11,5 @@ According to the stock data that was available to us, stock performance as a who
 ### Summary
 Benefits of refactoring code include improving the code's internal structure, quality and readability without making changes to its external behavior.  Redundant and repetitive code can be replaced and the code can run more efficiently.  However, you won't be able to add new functionality into an application by just refactoring code.  It might also be very time consuming if new bugs are introduced during the refactoring process.  
 Refactoring worked well in this VBA script since the objective and type of information we wanted to analyze was the same.  Making adjustments to the existing code resulted in a faster execution time and improved code readability.
+
+# Hello Karen 2
